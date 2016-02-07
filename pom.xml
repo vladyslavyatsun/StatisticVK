@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.statistic.vk</groupId>
-	<artifactId>statistic vk</artifactId>
+	<artifactId>statistic.vk</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>statistic vk</name>
+	<name>statistic.vk</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
